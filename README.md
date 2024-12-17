@@ -5,17 +5,9 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">Hello 👋, I'm Amano Jun</h1></summary>
   </ul>
 </div>
-
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/GoldSun529/GoldSun529/blob/main/cover-image.webp"
-       alt="snake" /></a>
-</div>
-
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -24,22 +16,34 @@
   </ul>
 </div>
 
+<!--- snake -->
+<table>
+  <tr>
+    <!-- Cover Image -->
+    <td>
+      <img src="https://github.com/GoldSun529/GoldSun529/blob/main/cover-image.webp" alt="cover-image" width="300" style="border-radius: 10px;">
+    </td>
+    <!-- Description -->
+    <td>
+      <pre>
+I-am-vishalmaurya@github
+-------------------------
+💻 I am a self-taught Full Stack Developer and a Machine Learning Developer
+📚 I have a Bachelor's in Computer Science from the University of Mumbai, India
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🔭 Working on Deep Learning & Machine Learning
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Python, JavaScript
+🚩 Interested in Full Stack Machine Learning Application development
+💖 In a complicated relationship with Neural Networks
+🎵 Love metal, lofi, jazz, and soft music
+      </pre>
+    </td>
+  </tr>
+</table>
 
-<!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
-<!--Intro end-->
 
 
 
