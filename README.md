@@ -12,23 +12,32 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary>
+      <h2 style="display: inline-block">
+      🌟𝑳𝒆𝒂𝒅 𝑻𝒆𝒄𝒉 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒐𝒇 𝑩𝒊𝒕𝒔𝒕𝒂𝒌𝒆.𝒊𝒐🌟
+      </h2>
+    </summary>
+    <h2 style="display: inline-block">
+    💸Equity Owner at Bitstake.io💸
+    </h2>
   </ul>
 </div>
 
-<!--- snake -->
-<table>
+<table align="center">
   <tr>
-    <!-- Cover Image -->
-    <td>
-      <img src="https://github.com/GoldSun529/GoldSun529/blob/main/cover-image.webp" alt="cover-image" width="300" style="border-radius: 10px;">
+    <td align="center"  width="27%" >
+      <img src="https://github.com/GoldSun529/GoldSun529/blob/main/cover-image.webp" alt="cover-image"style="border-radius: 10px;">
     </td>
-    <!-- Description -->
-    <td>
-      <img src="https://github.com/GoldSun529/GoldSun529/blob/main/bitstake-cover.png" alt="cover-image" height="300" style="border-radius: 10px;">
+    <td align="center"  width="40%">
+      <img src="https://github.com/GoldSun529/GoldSun529/blob/main/bitstake-cover.png" alt="cover-image" style="border-radius: 10px;">
+    </td>
+    <td align="center"  width="23%" >
+      <img src="https://github.com/GoldSun529/GoldSun529/blob/main/token-cover.png" alt="cover-image"style="border-radius: 10px;">
     </td>
   </tr>
 </table>
+
+
 
 <pre>
   I-am-vishalmaurya@github
