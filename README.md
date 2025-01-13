@@ -6,10 +6,10 @@
   <table width="100%">
     <tr>
       <td align="left" style="width: 50%;">
+        <h1 style="font-size: 2.5em; margin-bottom: 0; text-align: center; margin-left: auto; margin-right: auto; ">ﻬஐﻬ 天野 順 ﻬஐﻬ</h1>
         <img src="https://github.com/GoldSun529/GoldSun529/blob/main/cover-image-hacker.jpg" alt="cover-image" style="border-radius: 10px; max-width: 100%; height: auto;">
       </td>
       <td align="left" style="width: 50%;">
-        <h1 style="font-size: 2.5em; margin-bottom: 0; text-align: center">ﻬஐﻬ 天野 順 ﻬஐﻬ</h1>
         <h1 style="font-size: 2.5em; margin-bottom: 0;">Hello 👋, I'm Amano Jun</h1>
         <h3>🌟 Lead Tech Web Developer of Bitstake.io 🌟</h3>
         <h3>💸 Equity Owner at Bitstake.io 💸</h3>
