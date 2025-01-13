@@ -32,7 +32,7 @@
       <img src="https://github.com/GoldSun529/GoldSun529/blob/main/bitstake-cover.png" alt="cover-image" style="border-radius: 10px;">
     </td>
     <td align="center"  width="23%" >
-      <img src="https://github.com/GoldSun529/GoldSun529/blob/main/token-cover.png" alt="cover-image"style="border-radius: 10px;">
+      <img src="https://github.com/GoldSun529/GoldSun529/blob/main/cover-image-hacker.jpg" alt="cover-image"style="border-radius: 10px;">
     </td>
   </tr>
 </table>
