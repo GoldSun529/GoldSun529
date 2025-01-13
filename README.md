@@ -1,12 +1,21 @@
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello 👋, I'm Amano Jun</h1></summary>
-  </ul>
+<div id="user-content-toc" align="center">
+  <table width="100%">
+    <tr>
+      <td align="left" style="width: 50%;">
+        <img src="https://github.com/GoldSun529/GoldSun529/blob/main/cover-image-hacker.jpg" alt="cover-image" style="border-radius: 10px; max-width: 100%; height: auto;">
+      </td>
+      <td align="left" style="width: 50%;">
+        <h1 style="font-size: 2.5em; margin-bottom: 0; text-align: center">ﻬஐﻬ 天野 順 ﻬஐﻬ</h1>
+        <h1 style="font-size: 2.5em; margin-bottom: 0;">Hello 👋, I'm Amano Jun</h1>
+        <h3>🌟 Lead Tech Web Developer of Bitstake.io 🌟</h3>
+        <h3>💸 Equity Owner at Bitstake.io 💸</h3>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!--h2 without bottom border-->
@@ -37,8 +46,6 @@
   </tr>
 </table>
 
-
-
 <pre>
   I-am-vishalmaurya@github
   -------------------------
@@ -52,10 +59,6 @@
   💖 In a complicated relationship with Neural Networks
   🎵 Love metal, lofi, jazz, and soft music
 </pre>
-
-
-
-
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -86,10 +89,8 @@
 </div>
 <!--- trophy (start) -->
 
-
 </p>        
 <!--- stats (end) -->
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -103,7 +104,6 @@
     <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
-
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -123,14 +123,12 @@
   
 </p>
 
-
 <!--profile visit count-->
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
-
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
