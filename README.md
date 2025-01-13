@@ -6,32 +6,20 @@
   <table width="100%">
     <tr>
       <td align="left" style="width: 50%;">
-        <h1 style="font-size: 2.5em; margin-bottom: 0; text-align: center; margin-left: auto; margin-right: auto; ">ﻬஐﻬ 天野 順 ﻬஐﻬ</h1>
+        <h1 align="center" style="font-size: 3em; margin-bottom: 0; ">ﻬஐﻬ 天野 順 ﻬஐﻬ</h1>
         <img src="https://github.com/GoldSun529/GoldSun529/blob/main/cover-image-hacker.jpg" alt="cover-image" style="border-radius: 10px; max-width: 100%; height: auto;">
       </td>
-      <td align="left" style="width: 50%;">
+      <td valign="top" align="left" style="width: 50%;">
         <h1 style="font-size: 2.5em; margin-bottom: 0;">Hello 👋, I'm Amano Jun</h1>
+        <h3>💀 Ethical Hacker 💀</h3>
+        <h3>🛡️ But Bounty Hunter 🛡️</h3>
+        <h3>🧠 System Explorer 🧠</h3> 
         <h3>🌟 Lead Tech Web Developer of Bitstake.io 🌟</h3>
         <h3>💸 Equity Owner at Bitstake.io 💸</h3>
       </td>
     </tr>
   </table>
 </div>
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">
-      🌟𝑳𝒆𝒂𝒅 𝑻𝒆𝒄𝒉 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒐𝒇 𝑩𝒊𝒕𝒔𝒕𝒂𝒌𝒆.𝒊𝒐🌟
-      </h2>
-    </summary>
-    <h2 style="display: inline-block">
-    💸Equity Owner at Bitstake.io💸
-    </h2>
-  </ul>
-</div>
-
 <table align="center">
   <tr>
     <td align="center"  width="27%" >
